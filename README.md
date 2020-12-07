@@ -6,7 +6,7 @@
 
 # Requirements
 
-You need to install the PHP Microsoft Graph SDK with Composer. Either run `composer require microsoft/microsoft-graph`, or edit your `composer.json` file:
+You need to install the PHP Microsoft Graph SDK with Composer. Either run `composer require microsoft/microsoft-graph` or edit your `composer.json` file:
 ```
 {
     "require": {
