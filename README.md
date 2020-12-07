@@ -40,3 +40,9 @@ You need to install the PHP Microsoft Graph SDK with Composer. Either run `compo
 
 ### Step 8
 ![Step 8](/images/step_8.png)
+
+### Step 9
+Edit TENANT_ID, CLIENT_ID, CLIENT_SECRET and URL_REDIRECT constants in the PHP file to match with the Azure configuration above.
+
+### Step 9
+Place the PHP file on server with its path matching URL_REDIRECT.
