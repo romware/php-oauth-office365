@@ -1,6 +1,6 @@
 # php-oauth-office365
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/romware/php-oauth-office365)
+![version](https://img.shields.io/badge/version-1.0.0-blue)
 
 **php-oauth-office365** is a demo showing how to implement OAuth2 for signing in with Microsoft Office365 using PHP.
 
